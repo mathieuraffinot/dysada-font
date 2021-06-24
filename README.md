@@ -110,7 +110,7 @@ are several examples on this page; But this font is currently
 completely out of my imagination and out of discussions with dyslexic
 colleagues, it will take users to test it!
 
-<img href="https://github.com/mathieuraffinot/dysada-font/blob/main/IMG/dysada-full.png"> dysada font letters </img> 
+![dysada font letters](https://github.com/mathieuraffinot/dysada-font/blob/main/IMG/dysada-full.png)
 
 However, while building it, I realized that part of the solution might
 not come from a complete new font: in most cases, the lexical dyslexic
