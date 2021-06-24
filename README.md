@@ -1,3 +1,4 @@
+![dysada on wikipedia dyslexia](https://github.com/mathieuraffinot/dysada-font/blob/main/IMG/wikipedia-example.jpg)
 
 I created the DysAda font as part of an
 ongoing project "to understand if with a new approach I can help
@@ -111,6 +112,10 @@ completely out of my imagination and out of discussions with dyslexic
 colleagues, it will take users to test it!
 
 ![dysada font letters](https://github.com/mathieuraffinot/dysada-font/blob/main/IMG/dysada-full.png)
+
+and also the numbers
+
+![dysada font letters](https://github.com/mathieuraffinot/dysada-font/blob/main/IMG/dysada-number.png)
 
 However, while building it, I realized that part of the solution might
 not come from a complete new font: in most cases, the lexical dyslexic
